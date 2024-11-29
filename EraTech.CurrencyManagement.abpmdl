@@ -1,0 +1,58 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {}
+    }
+  },
+  "packages": {
+    "EraTech.CurrencyManagement.Domain": {
+      "path": "src/EraTech.CurrencyManagement.Domain/EraTech.CurrencyManagement.Domain.abppkg",
+      "folder": "src"
+    },
+    "EraTech.CurrencyManagement.Application.Contracts": {
+      "path": "src/EraTech.CurrencyManagement.Application.Contracts/EraTech.CurrencyManagement.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "EraTech.CurrencyManagement.Application": {
+      "path": "src/EraTech.CurrencyManagement.Application/EraTech.CurrencyManagement.Application.abppkg",
+      "folder": "src"
+    },
+    "EraTech.CurrencyManagement.EntityFrameworkCore": {
+      "path": "src/EraTech.CurrencyManagement.EntityFrameworkCore/EraTech.CurrencyManagement.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "EraTech.CurrencyManagement.HttpApi": {
+      "path": "src/EraTech.CurrencyManagement.HttpApi/EraTech.CurrencyManagement.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "EraTech.CurrencyManagement.HttpApi.Client": {
+      "path": "src/EraTech.CurrencyManagement.HttpApi.Client/EraTech.CurrencyManagement.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "EraTech.CurrencyManagement.Web": {
+      "path": "src/EraTech.CurrencyManagement.Web/EraTech.CurrencyManagement.Web.abppkg",
+      "folder": "src"
+    },
+    "EraTech.CurrencyManagement.TestBase": {
+      "path": "test/EraTech.CurrencyManagement.TestBase/EraTech.CurrencyManagement.TestBase.abppkg",
+      "folder": "test"
+    },
+    "EraTech.CurrencyManagement.EntityFrameworkCore.Tests": {
+      "path": "test/EraTech.CurrencyManagement.EntityFrameworkCore.Tests/EraTech.CurrencyManagement.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "EraTech.CurrencyManagement.Domain.Tests": {
+      "path": "test/EraTech.CurrencyManagement.Domain.Tests/EraTech.CurrencyManagement.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "EraTech.CurrencyManagement.Application.Tests": {
+      "path": "test/EraTech.CurrencyManagement.Application.Tests/EraTech.CurrencyManagement.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "EraTech.CurrencyManagement.Domain.Shared": {
+      "path": "src/EraTech.CurrencyManagement.Domain.Shared/EraTech.CurrencyManagement.Domain.Shared.abppkg",
+      "folder": "src"
+    }
+  }
+}

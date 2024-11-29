@@ -1,0 +1,9 @@
+{
+  "culture": "en",
+  "texts": {
+    "Currency": "Currency",
+    "Feature:AllowChangingCurrencyAppSettings": "Allow changing currency settings.",
+    "Permission:Settings:Currency": "Currency",
+    "Menu:Settings:Currency": "Currency"
+  }
+}

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>EraTech.CurrencyManagement</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.Ddd.Application.Contracts" Version="9.0.0" />
+    <PackageReference Include="Volo.Abp.Authorization" Version="9.0.0" />
+		<PackageReference Include="Volo.Abp.SettingManagement.Application.Contracts" Version="9.0.0" />
+		<ProjectReference Include="..\EraTech.CurrencyManagement.Domain.Shared\EraTech.CurrencyManagement.Domain.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

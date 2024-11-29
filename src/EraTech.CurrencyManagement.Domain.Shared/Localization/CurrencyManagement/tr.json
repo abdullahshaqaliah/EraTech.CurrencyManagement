@@ -1,0 +1,9 @@
+{
+  "culture": "tr",
+  "texts": {
+    "Currency": "Para Birimi",
+    "Feature:AllowChangingCurrencyAppSettings": "Para birimi ayarlarını değiştirmeye izin ver",
+    "Permission:Settings:Currency": "Para Birimi",
+    "Menu:Settings:Currency": "Para Birimi"
+  }
+}

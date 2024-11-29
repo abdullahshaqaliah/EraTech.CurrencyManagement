@@ -1,0 +1,9 @@
+{
+  "culture": "ar",
+  "texts": {
+    "Currency": "العملة",
+    "Feature:AllowChangingCurrencyAppSettings": "السماح بتغيير إعدادات العملة",
+    "Permission:Settings:Currency": "العملة",
+    "Menu:Settings:Currency": "العملة"
+  }
+}

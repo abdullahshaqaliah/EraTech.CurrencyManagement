@@ -1,0 +1,9 @@
+{
+  "id": "1653a11f-e6e1-4dfc-b561-19e61cb76e9b",
+  "template": "empty",
+  "modules": {
+    "EraTech.CurrencyManagement": {
+      "path": "EraTech.CurrencyManagement.abpmdl"
+    }
+  }
+}

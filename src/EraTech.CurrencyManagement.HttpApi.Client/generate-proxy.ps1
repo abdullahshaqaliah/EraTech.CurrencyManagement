@@ -1,0 +1,1 @@
+abp generate-proxy -t csharp -c -m currencyManagement -u https://localhost:44383
